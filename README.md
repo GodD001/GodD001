@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @GodD001
-- 👀 I’m interested in java program
-- 🌱 I’m currently learning data structure
-- 💞️ I’m looking to collaborate on java program
-- 📫 How to reach me  lcd000111@gmail.com
+- 👋 Hi
 
-<!---
-GodD001/GodD001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Interested in backend systems, distributed systems, and AI
+🚀 Building projects with Go and modern backend technologies
+
+🛠️ Tech
+
+Go / Java / Python
+
+MySQL / Redis
+
+REST APIs / RPC
+
+Docker
+
+🚀 Projects
+
+
+RAG Service (Go) – LLM + retrieval pipeline
+
+Database System (BusTub) – storage & indexing
+
+📈 Currently
+
+Improving system design
+
+Practicing algorithms
+
+Exploring AI + backend integration
+
+⚡ Notes
+
+Focus on building, learning, and shipping.
