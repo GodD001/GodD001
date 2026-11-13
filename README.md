@@ -1,6 +1,6 @@
 ### Hi, I'm Chendi 👋
 
-M.S. CS student at the University of Chicago. I build **LLM inference and ML systems**, and backend services.
+MPCS student at the University of Chicago. I build **LLM inference and ML systems**, and backend services.
 
 Currently looking for **Summer 2027** internships in AI infrastructure, ML systems, and backend engineering.
 
